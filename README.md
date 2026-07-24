@@ -8,21 +8,21 @@ The current **Library Tile Cards** set uses a matching dark blue, black, and gol
 
 | Collections | Live TV |
 |---|---|
-| ![Collections](<Library_Tile_Cards/collections.png>) | ![Live TV](<Library_Tile_Cards/live-tv.png>) |
+| ![Collections](<library_tile_cards/collections.png>) | ![Live TV](<library_tile_cards/live-tv.png>) |
 
 | Movies | Playlists |
 |---|---|
-| ![Movies](<Library_Tile_Cards/movies.png>) | ![Playlists](<Library_Tile_Cards/playlists.png>) |
+| ![Movies](<library_tile_cards/movies.png>) | ![Playlists](<library_tile_cards/playlists.png>) |
 
 | Shows |
 |---|
-| ![Shows](<Library_Tile_Cards/shows.png>) |
+| ![Shows](<library_tile_cards/shows.png>) |
 
 ## Repository Layout
 
 ```text
 jellyfin-artwork/
-├── Library _Tile_Cards/
+├── library_tile_cards/
 │   ├── collections.png
 │   ├── live-tv.png
 │   ├── movies.png
@@ -34,7 +34,7 @@ jellyfin-artwork/
 
 ## Using the Artwork
 
-1. Open the `Library _Tile_Cards` folder.
+1. Open the `library_tile_cards` folder.
 2. Download the image you want to use.
 3. In Jellyfin, open the matching library or section.
 4. Select **Edit Images** and upload the file as its primary image.
@@ -53,7 +53,3 @@ jellyfin-artwork/
 This is an unofficial community artwork project and is not affiliated with or endorsed by the Jellyfin project.
 
 The artwork was created with AI-assisted image generation.
-
-## License
-
-See the [`LICENSE`](LICENSE) file for usage and redistribution terms.

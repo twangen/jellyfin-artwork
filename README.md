@@ -8,15 +8,15 @@ The current **Library Tile Cards** set uses a matching dark blue, black, and gol
 
 | Collections | Live TV |
 |---|---|
-| ![Collections](<Library _Tile_Cards/collections.png>) | ![Live TV](<Library _Tile_Cards/live-tv.png>) |
+| ![Collections](<Library_Tile_Cards/collections.png>) | ![Live TV](<Library_Tile_Cards/live-tv.png>) |
 
 | Movies | Playlists |
 |---|---|
-| ![Movies](<Library _Tile_Cards/movies.png>) | ![Playlists](<Library _Tile_Cards/playlists.png>) |
+| ![Movies](<Library_Tile_Cards/movies.png>) | ![Playlists](<Library_Tile_Cards/playlists.png>) |
 
 | Shows |
 |---|
-| ![Shows](<Library _Tile_Cards/shows.png>) |
+| ![Shows](<Library_Tile_Cards/shows.png>) |
 
 ## Repository Layout
 

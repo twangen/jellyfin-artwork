@@ -8,21 +8,33 @@ The current **Library Tile Cards** set uses a matching dark blue, black, and gol
 
 | Collections | Live TV |
 |---|---|
-| ![Collections](<library_tile_cards/collections.png>) | ![Live TV](<library_tile_cards/live-tv.png>) |
+| ![Collections](<library_tile_cards_03/collections.png>) | ![Live TV](<library_tile_cards_03/live-tv.png>) |
 
 | Movies | Playlists |
 |---|---|
-| ![Movies](<library_tile_cards/movies.png>) | ![Playlists](<library_tile_cards/playlists.png>) |
+| ![Movies](<library_tile_cards_03/movies.png>) | ![Playlists](<library_tile_cards_03/playlists.png>) |
 
 | Shows |
 |---|
-| ![Shows](<library_tile_cards/shows.png>) |
+| ![Shows](<library_tile_cards_03/shows.png>) |
 
 ## Repository Layout
 
 ```text
 jellyfin-artwork/
 ├── library_tile_cards/
+│   ├── collections.png
+│   ├── live-tv.png
+│   ├── movies.png
+│   ├── playlists.png
+│   └── shows.png
+├── library_tile_cards_02/
+│   ├── collections.png
+│   ├── live-tv.png
+│   ├── movies.png
+│   ├── playlists.png
+│   └── shows.png
+├── library_tile_cards_03/
 │   ├── collections.png
 │   ├── live-tv.png
 │   ├── movies.png
